@@ -1,5 +1,5 @@
 {
-  "name": "keycloak-connect",
+  "name": "@gridplus/keycloak-connect",
   "version": "4.0.0-beta.1",
   "description": "Keycloak Connect Middleware",
   "homepage": "http://keycloak.org",
